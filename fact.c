@@ -18,7 +18,17 @@ void add()
   printf("\n enter the two no");
   scanf("%d%d",&a,&b);
   c=a+b;
-  printf("\n addition of two no",c);
+  printf("\n addition of two no=%d",c);
 }
+  void sub()
+{
+  int a,b,c;
+  printf("\n enter the two no");
+  scanf("%d%d",&a,&b);
+  c=a-b;
+  printf("\n subt of two no=%d",c);
+}
+
+  
 
   
